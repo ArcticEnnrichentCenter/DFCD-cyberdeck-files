@@ -1,9 +1,20 @@
 This is the DesignatedFreeCadDevice, a moduar cyberdeck primarily designed to run FreeCad.
-![DSCF1779](https://github.com/user-attachments/assets/cbbf986b-326c-486f-9e77-3bc8181b262e)
-**what is it?**
-descriprion coming
-**Build instructions**
 
+![DSCF1779](https://github.com/user-attachments/assets/cbbf986b-326c-486f-9e77-3bc8181b262e)
+**whatdoes it do?**
+It runs freecad of course :) i built i mostly to be able to open and modify CAD files while in the workshop, but i also use it to browse the web and genral computing. it has a keyboard hidden under the sliden screen, as i rarley use a keyboard, but i did want to have a full depth mechanical keyboard whenever i actually use one. The machine is modular so that one can build modules that fits your personal needs.I hope people feel inspired to make their own modules.
+![DSCF1786](https://github.com/user-attachments/assets/df5e4cd6-41c9-4f8a-bc78-de39ea63718a)
+
+**How is the modules powered?**
+Cables run on the backside, transfering USB betweeen the modules.
+![DSCF1748](https://github.com/user-attachments/assets/afb27bba-86a3-4399-81f9-8e598e65027f)
+
+**What is the status on this project?**
+Screen is working, keyboad types and trackball rolls. what i have not done yet is to wire up the scrolling handle and connection module on the left. The trackball electronics is currently 
+harvested from a logiteck trackball marble, meaning you need to source one to build one of these, wich is not optimal. so i want to build my own trackball electronics in the future.
+
+**Build instructions**
+These are the builing instructions for the current version of this cyberdeck:
 First, the chassis has to be assembled, and we start with the upper chasssis, where the linear bearings are inserted in its holders, that are then inserted in the upper chassis sections.
 <img width="2554" height="1362" alt="Upper frame 1" src="https://github.com/user-attachments/assets/490e57c0-1b0a-4ef2-aa2d-dbe46fbe2d24" />
 The screen release switch is mounted, the pin is made by cutting a screw or threaded rod.
