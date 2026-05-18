@@ -26,4 +26,4 @@ Screen is working, keyboad types and trackball rolls. What i have not done yet i
 harvested from a logiteck trackball marble, meaning you need to source one to build one of these, wich is not optimal. so i want to build my own trackball electronics in the future.
 
 **Build instructions**
-Visit the wiki for instructions on how to print, asssemble and connect the DesignatedFreeCadDevice!
+Visit the wiki for instructions on how to print, asssemble and connect the DesignatedFreeCadDevice! See this video for how to assemble: https://www.youtube.com/watch?v=gIWp_F9PPzI
